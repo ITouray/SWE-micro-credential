@@ -1,4 +1,7 @@
 h2{
   font-family: 'Times New Roman', Times, serif;
   color: #ff0000;
-};
+}
+body{
+  background-color: lightcyan;
+}
